@@ -37,13 +37,16 @@ Users should be able to:
 
 ## My process
 
+- 1.Download assets, Install Vite & TailwindCss, Initialize git, README.md, Prepare project
+- 2.Work on Notification page
+
 ### Work Time
 
 - [My Clockify Report](https://app.clockify.me/shared/?)
 
 ### Built with
 
-- [React](https:react.dev)
+- [React](https://react.dev)
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Author
@@ -56,6 +59,6 @@ Users should be able to:
 
 Thanks To
 
-[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges  
+[Frontendmentor.io](https://www.frontendmentor.io/challenges) - for their Excitement challenges
 
 [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - for such a great extension

@@ -16,7 +16,7 @@
   /* 2 */
   border-style: solid;
   /* 2 */
-  border-color: #e5e7eb;
+  border-color: currentColor;
   /* 2 */
 }
 
@@ -520,4 +520,567 @@ video {
   --tw-backdrop-opacity:  ;
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
+}
+
+.mx-16 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.my-23 {
+  margin-top: 1.4375rem;
+  margin-bottom: 1.4375rem;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.mr-6 {
+  margin-right: 0.375rem;
+}
+
+.mr-8 {
+  margin-right: 0.5rem;
+}
+
+.mr-auto {
+  margin-right: auto;
+}
+
+.mt-20 {
+  margin-top: 1.25rem;
+}
+
+.mt-23 {
+  margin-top: 1.4375rem;
+}
+
+.mt-9 {
+  margin-top: 0.5625rem;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-40 {
+  height: 2.5rem;
+}
+
+.h-8 {
+  height: 0.5rem;
+}
+
+.w-40 {
+  width: 2.5rem;
+}
+
+.w-8 {
+  width: 0.5rem;
+}
+
+.max-w-\[47\.9375rem\] {
+  max-width: 47.9375rem;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-x-14 {
+  -moz-column-gap: 0.875rem;
+       column-gap: 0.875rem;
+}
+
+.gap-x-8 {
+  -moz-column-gap: 0.5rem;
+       column-gap: 0.5rem;
+}
+
+.gap-y-12 {
+  row-gap: 0.75rem;
+}
+
+.gap-x-13 {
+  -moz-column-gap: 0.8125rem;
+       column-gap: 0.8125rem;
+}
+
+.gap-y-11 {
+  row-gap: 0.6875rem;
+}
+
+.self-start {
+  align-self: flex-start;
+}
+
+.rounded-full {
+  border-radius: 9999px;
+}
+
+.rounded-md {
+  border-radius: 0.375rem;
+}
+
+.rounded-sm {
+  border-radius: 0.125rem;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border-grayish-blue {
+  --tw-border-opacity: 1;
+  border-color: hsl(219 14% 63% / var(--tw-border-opacity));
+}
+
+.border-inherit {
+  border-color: inherit;
+}
+
+.border-transparent {
+  border-color: transparent;
+}
+
+.bg-blue {
+  --tw-bg-opacity: 1;
+  background-color: hsl(219 85% 26% / var(--tw-bg-opacity));
+}
+
+.bg-light-grayish-blue-1 {
+  --tw-bg-opacity: 1;
+  background-color: hsl(211 68% 94% / var(--tw-bg-opacity));
+}
+
+.bg-red {
+  --tw-bg-opacity: 1;
+  background-color: hsl(1 90% 64% / var(--tw-bg-opacity));
+}
+
+.bg-very-light-grayish-blue {
+  --tw-bg-opacity: 1;
+  background-color: hsl(210 60% 98% / var(--tw-bg-opacity));
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-light-gray {
+  --tw-bg-opacity: 1;
+  background-color: rgb(249 250 253 / var(--tw-bg-opacity));
+}
+
+.p-1 {
+  padding: 0.0625rem;
+}
+
+.px-10 {
+  padding-left: 0.625rem;
+  padding-right: 0.625rem;
+}
+
+.px-14 {
+  padding-left: 0.875rem;
+  padding-right: 0.875rem;
+}
+
+.py-1 {
+  padding-top: 0.0625rem;
+  padding-bottom: 0.0625rem;
+}
+
+.py-14 {
+  padding-top: 0.875rem;
+  padding-bottom: 0.875rem;
+}
+
+.py-15 {
+  padding-top: 0.9375rem;
+  padding-bottom: 0.9375rem;
+}
+
+.pl-16 {
+  padding-left: 1rem;
+}
+
+.pr-13 {
+  padding-right: 0.8125rem;
+}
+
+.font-Plus-Jakarta-Sans {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.text-14 {
+  font-size: 0.875rem;
+}
+
+.text-19 {
+  font-size: 1.1875rem;
+}
+
+.text-13 {
+  font-size: 0.8125rem;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+.leading-18 {
+  line-height: 1.125rem;
+}
+
+.leading-20 {
+  line-height: 1.25rem;
+}
+
+.leading-30 {
+  line-height: 1.875rem;
+}
+
+.leading-22 {
+  line-height: 1.375rem;
+}
+
+.leading-21 {
+  line-height: 1.3125rem;
+}
+
+.leading-19 {
+  line-height: 1.1875rem;
+}
+
+.tracking-1 {
+  letter-spacing: 0.00625rem;
+}
+
+.tracking-9 {
+  letter-spacing: 0.05625rem;
+}
+
+.text-dark-grayish-blue {
+  --tw-text-opacity: 1;
+  color: hsl(219 12% 42% / var(--tw-text-opacity));
+}
+
+.text-gray {
+  --tw-text-opacity: 1;
+  color: rgb(197 194 206 / var(--tw-text-opacity));
+}
+
+.text-grayish-blue {
+  --tw-text-opacity: 1;
+  color: hsl(219 14% 63% / var(--tw-text-opacity));
+}
+
+.text-very-dark-blue {
+  --tw-text-opacity: 1;
+  color: hsl(224 21% 14% / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.hover\:border-blue:hover {
+  --tw-border-opacity: 1;
+  border-color: hsl(219 85% 26% / var(--tw-border-opacity));
+}
+
+.hover\:border-grayish-blue:hover {
+  --tw-border-opacity: 1;
+  border-color: hsl(219 14% 63% / var(--tw-border-opacity));
+}
+
+.hover\:border-light-grayish-blue-1:hover {
+  --tw-border-opacity: 1;
+  border-color: hsl(211 68% 94% / var(--tw-border-opacity));
+}
+
+.hover\:border-light-grayish-blue-2:hover {
+  --tw-border-opacity: 1;
+  border-color: hsl(205 33% 90% / var(--tw-border-opacity));
+}
+
+.hover\:bg-blue:hover {
+  --tw-bg-opacity: 1;
+  background-color: hsl(219 85% 26% / var(--tw-bg-opacity));
+}
+
+.hover\:bg-light-grayish-blue-1:hover {
+  --tw-bg-opacity: 1;
+  background-color: hsl(211 68% 94% / var(--tw-bg-opacity));
+}
+
+.hover\:text-blue:hover {
+  --tw-text-opacity: 1;
+  color: hsl(219 85% 26% / var(--tw-text-opacity));
+}
+
+@media (min-width: 768px) {
+  .md\:my-60 {
+    margin-top: 3.75rem;
+    margin-bottom: 3.75rem;
+  }
+
+  .md\:mt-26 {
+    margin-top: 1.625rem;
+  }
+
+  .md\:mt-60 {
+    margin-top: 3.75rem;
+  }
+
+  .md\:mt-11 {
+    margin-top: 0.6875rem;
+  }
+
+  .md\:mt-12 {
+    margin-top: 0.75rem;
+  }
+
+  .md\:mr-4 {
+    margin-right: 0.25rem;
+  }
+
+  .md\:mr-6 {
+    margin-right: 0.375rem;
+  }
+
+  .md\:mr-7 {
+    margin-right: 0.4375rem;
+  }
+
+  .md\:mb-8 {
+    margin-bottom: 0.5rem;
+  }
+
+  .md\:mb-12 {
+    margin-bottom: 0.75rem;
+  }
+
+  .md\:mb-6 {
+    margin-bottom: 0.375rem;
+  }
+
+  .md\:mb-5 {
+    margin-bottom: 0.3125rem;
+  }
+
+  .md\:ml-auto {
+    margin-left: auto;
+  }
+
+  .md\:mr-8 {
+    margin-right: 0.5rem;
+  }
+
+  .md\:h-50 {
+    height: 3.125rem;
+  }
+
+  .md\:h-45 {
+    height: 2.8125rem;
+  }
+
+  .md\:w-50 {
+    width: 3.125rem;
+  }
+
+  .md\:w-45 {
+    width: 2.8125rem;
+  }
+
+  .md\:gap-x-10 {
+    -moz-column-gap: 0.625rem;
+         column-gap: 0.625rem;
+  }
+
+  .md\:gap-x-18 {
+    -moz-column-gap: 1.125rem;
+         column-gap: 1.125rem;
+  }
+
+  .md\:gap-y-14 {
+    row-gap: 0.875rem;
+  }
+
+  .md\:gap-y-10 {
+    row-gap: 0.625rem;
+  }
+
+  .md\:gap-y-9 {
+    row-gap: 0.5625rem;
+  }
+
+  .md\:gap-y-8 {
+    row-gap: 0.5rem;
+  }
+
+  .md\:gap-y-7 {
+    row-gap: 0.4375rem;
+  }
+
+  .md\:rounded-xl {
+    border-radius: 0.75rem;
+  }
+
+  .md\:bg-white {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+  }
+
+  .md\:bg-light-gray {
+    --tw-bg-opacity: 1;
+    background-color: rgb(249 250 253 / var(--tw-bg-opacity));
+  }
+
+  .md\:px-12 {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+  }
+
+  .md\:px-32 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .md\:py-32 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+
+  .md\:py-17 {
+    padding-top: 1.0625rem;
+    padding-bottom: 1.0625rem;
+  }
+
+  .md\:px-16 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .md\:px-18 {
+    padding-left: 1.125rem;
+    padding-right: 1.125rem;
+  }
+
+  .md\:px-20 {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .md\:pl-2 {
+    padding-left: 0.125rem;
+  }
+
+  .md\:pt-18 {
+    padding-top: 1.125rem;
+  }
+
+  .md\:pl-18 {
+    padding-left: 1.125rem;
+  }
+
+  .md\:pl-20 {
+    padding-left: 1.25rem;
+  }
+
+  .md\:pt-20 {
+    padding-top: 1.25rem;
+  }
+
+  .md\:text-16 {
+    font-size: 1rem;
+  }
+
+  .md\:text-23 {
+    font-size: 1.4375rem;
+  }
+
+  .md\:text-18 {
+    font-size: 1.125rem;
+  }
+
+  .md\:text-17 {
+    font-size: 1.0625rem;
+  }
+
+  .md\:text-1 {
+    font-size: 0.0625rem;
+  }
+
+  .md\:text-15 {
+    font-size: 0.9375rem;
+  }
+
+  .md\:text-14 {
+    font-size: 0.875rem;
+  }
+
+  .md\:text-12 {
+    font-size: 0.75rem;
+  }
+
+  .md\:font-extrabold {
+    font-weight: 800;
+  }
+
+  .md\:leading-38 {
+    line-height: 2.375rem;
+  }
+
+  .md\:leading-20 {
+    line-height: 1.25rem;
+  }
+
+  .md\:leading-22 {
+    line-height: 1.375rem;
+  }
+
+  .md\:tracking-6 {
+    letter-spacing: 0.037500000000000006rem;
+  }
+
+  .md\:tracking-2 {
+    letter-spacing: 0.0125rem;
+  }
+
+  .md\:tracking-3 {
+    letter-spacing: 0.018750000000000003rem;
+  }
+
+  .md\:tracking-4 {
+    letter-spacing: 0.025rem;
+  }
 }
