@@ -9,7 +9,7 @@ const Notification = () => {
 
   return (
     <div className="max-w-[47.9375rem] mr-auto ml-auto">
-      <div className="my-23 mx-16 font-Plus-Jakarta-Sans md:bg-white md:my-60 md:rounded-xl md:py-32 md:px-32">
+      <div className="my-23 mx-16 font-Plus-Jakarta-Sans md:bg-white md:my-60 md:rounded-xl md:py-32 md:px-32 md:shadow-md md:shadow-light-grayish-blue-1">
         <div className="flex justify-between">
           <div className="flex gap-x-8 items-center md:gap-x-10">
             <h1 className="text-19 leading-30 tracking-9 text-very-dark-blue font-medium md:text-23 md:leading-38 md:tracking-6 md:font-extrabold md:pl-2">
