@@ -27,22 +27,23 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/notification-page-OjCRKKV_c3)
 
-- Live Site: [cloudflare](https://?.pages.dev/)
+- Live Site: [cloudflare](https://notif-challenge.pages.dev/)
 
 ## My process
 
 - 1.Download assets, Install Vite & TailwindCss, Initialize git, README.md, Prepare project
 - 2.Work on Notification page
+- 3.Write README.md, Push to github, Make it live on Cloudflare, Publish to frontendmentor
 
 ### Work Time
 
-- [My Clockify Report](https://app.clockify.me/shared/?)
+- [My Clockify Report](https://app.clockify.me/shared/649cb51929d62b5bc473d8c0)
 
 ### Built with
 
